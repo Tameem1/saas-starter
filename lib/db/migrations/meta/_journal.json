@@ -8,6 +8,20 @@
       "when": 1726443359662,
       "tag": "0000_soft_the_anarchist",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1739385424779,
+      "tag": "0001_chief_greymalkin",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1739446154346,
+      "tag": "0002_slim_jamie_braddock",
+      "breakpoints": true
     }
   ]
 }

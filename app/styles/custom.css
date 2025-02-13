@@ -1,0 +1,32 @@
+/* app/styles/custom.css */
+
+/* Basic container style for pages */
+.page-container {
+    margin: 40px auto;
+    padding: 20px;
+    max-width: 600px;
+    background-color: #fff;
+    border-radius: 8px;
+  }
+  
+  /* Chat styling */
+  .chat-container {
+    border: 1px solid #ddd;
+    padding: 10px;
+    max-height: 300px;
+    overflow-y: auto;
+    border-radius: 4px;
+  }
+  .chat-bubble {
+    margin-bottom: 10px;
+    padding: 8px;
+    border-radius: 6px;
+  }
+  .chat-bubble.user {
+    background-color: #e8f1ff;
+  }
+  .chat-bubble.bot {
+    background-color: #ffeeba;
+  }
+  
+  /* ... etc ... */
